@@ -12,6 +12,16 @@
             "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/tiktok_43.1.0_BHTikTok_sideloaded.ipa",
             "localizedDescription": "Tweaked version of TikTok",
             "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+        },
+        {
+            "name": "YouTube",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "20.50.9",
+            "versionDate": "2026-01-07",
+            "size": 124571925,
+            "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/youtube_20.50.9_YTLite_sideloaded.ipa",
+            "localizedDescription": "Tweaked version of YouTube",
+            "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
         }
     ]
 }
