@@ -22,6 +22,16 @@
             "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/youtube_20.50.10_YTLite_sideloaded.ipa",
             "localizedDescription": "Tweaked version of YouTube",
             "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+        },
+        {
+            "name": "X",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "11.54",
+            "versionDate": "2026-01-07",
+            "size": 169502492,
+            "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/twitter_11.54_BHTwitter_sideloaded.ipa",
+            "localizedDescription": "Tweaked version of X",
+            "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
         }
     ]
 }
