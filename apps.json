@@ -32,6 +32,16 @@
             "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/twitter_11.54_BHTwitter_sideloaded.ipa",
             "localizedDescription": "Tweaked version of X",
             "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+        },
+        {
+            "name": "Instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "411.0.0",
+            "versionDate": "2026-01-07",
+            "size": 261873656,
+            "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/instagram_411.0.0_SCInsta_sideloaded.ipa",
+            "localizedDescription": "Tweaked version of Instagram",
+            "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
         }
     ]
 }
