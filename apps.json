@@ -46,10 +46,10 @@
         {
             "name": "Twitch",
             "bundleIdentifier": "tv.twitch",
-            "version": "27.4",
-            "versionDate": "2026-01-07",
-            "size": 141886596,
-            "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/twitch_27.4_TwitchAdBlock_sideloaded.ipa",
+            "version": "27.5",
+            "versionDate": "2026-01-08",
+            "size": 140042225,
+            "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/twitch_27.5_TwitchAdBlock_sideloaded.ipa",
             "localizedDescription": "Tweaked version of Twitch",
             "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
         },
