@@ -47,7 +47,7 @@
             "name": "Twitch",
             "bundleIdentifier": "tv.twitch",
             "version": "27.5",
-            "versionDate": "2026-01-08",
+            "versionDate": "2026-01-10",
             "size": 140042225,
             "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/twitch_27.5_TwitchAdBlock_sideloaded.ipa",
             "localizedDescription": "Tweaked version of Twitch",
