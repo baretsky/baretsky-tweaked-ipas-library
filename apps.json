@@ -1,7 +1,7 @@
 {
-    "name": "My Tweaked Apps Library",
+    "name": "Baretsky's Tweaked App Library",
     "identifier": "com.myrepo.library",
-    "sourceURL": "https://baretsky.github.io/baretsky-tweaked-ipas-library/apps.json",
+    "sourceURL": "https://baretsky.github.io/baretsky-tweaked-ipas-library/output/apps.json",
     "apps": [
         {
             "name": "TikTok",
@@ -44,14 +44,14 @@
             "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
         },
         {
-            "name": "Twitch",
+            "name": "Twitch (AdBlock)",
             "bundleIdentifier": "tv.twitch",
             "version": "27.5",
             "versionDate": "2026-01-10",
             "size": 140042225,
             "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/twitch_27.5_TwitchAdBlock_sideloaded.ipa",
-            "localizedDescription": "Tweaked version of Twitch",
-            "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+            "localizedDescription": "Watch your favorite streamers without interruptions.\n\n\ud83d\udcfa Features:\n- Full Ad-Blocking\n- Improved performance\n- Clean interface",
+            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Twitch_Glitch_Logo_Purple.svg/512px-Twitch_Glitch_Logo_Purple.svg.png"
         },
         {
             "name": "YouTube Music",
