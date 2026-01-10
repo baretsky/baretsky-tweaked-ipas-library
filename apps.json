@@ -24,13 +24,13 @@
             "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
         },
         {
-            "name": "X",
+            "name": "Twitter",
             "bundleIdentifier": "com.atebits.Tweetie2",
             "version": "11.55",
-            "versionDate": "2026-01-08",
-            "size": 163153139,
+            "versionDate": "2026-01-10",
+            "size": 165090297,
             "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/twitter_11.55_BHTwitter_sideloaded.ipa",
-            "localizedDescription": "Tweaked version of X",
+            "localizedDescription": "Tweaked version of Twitter",
             "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
         },
         {
