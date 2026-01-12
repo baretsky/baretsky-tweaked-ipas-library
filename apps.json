@@ -36,12 +36,12 @@
         {
             "name": "Instagram",
             "bundleIdentifier": "com.burbn.instagram",
-            "version": "411.3.0",
-            "versionDate": "2026-01-10",
-            "size": 250402624,
-            "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/instagram_411.3.0_SCInsta_sideloaded.ipa",
-            "localizedDescription": "Tweaked version of Instagram",
-            "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+            "version": "412.0.0",
+            "versionDate": "2026-01-12",
+            "size": 248939465,
+            "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/instagram_412.0.0_SCInsta_sideloaded.ipa",
+            "localizedDescription": "Instagram enhanced with SCInsta.\n\nFeatures:\n- Download posts and stories\n- View stories anonymously\n- Remove all advertisements\n- Copy text from posts\n\nTo open SCInsta settings, go to profile -> long-press the top-right three lines hamburger menu.",
+            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"
         },
         {
             "name": "Twitch (AdBlock)",
