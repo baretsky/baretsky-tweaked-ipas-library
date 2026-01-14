@@ -26,10 +26,10 @@
         {
             "name": "Twitter",
             "bundleIdentifier": "com.atebits.Tweetie2",
-            "version": "11.56",
-            "versionDate": "2026-01-12",
-            "size": 165370334,
-            "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/twitter_11.56_NeoFreeBird_sideloaded.ipa",
+            "version": "11.56.1",
+            "versionDate": "2026-01-14",
+            "size": 165371812,
+            "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/twitter_11.56.1_NeoFreeBird_sideloaded.ipa",
             "localizedDescription": "Twitter enhanced with NeoFreeBird.\n\nFeatures:\n- No ads\n- Video download\n- Voice messages\n- Hidden features enabled\n\nTo open NeoFreeBird settings, go to profile -> Settings and privacy -> NeoFreeBird.",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png"
         },
