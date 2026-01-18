@@ -62,6 +62,16 @@
             "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/youtubemusic_9.02.5_YTMusicUltimate_sideloaded.ipa",
             "localizedDescription": "Premium features unlocked for YouTube Music.\n\nFeatures:\n- Listen without ads\n- Background playback\n- Audio-only mode\n- High quality audio",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/512px-Youtube_Music_icon.svg.png"
+        },
+        {
+            "name": "Ksign",
+            "bundleIdentifier": "nya.asami.ksign",
+            "version": "1.5.1",
+            "versionDate": "2026-01-18",
+            "size": 14029179,
+            "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/ksign_1.5.1.ipa",
+            "localizedDescription": "Ksign is an IPA signing tool for iOS.\n\nFeatures:\n- Sign IPAs with your own certificate\n- Sideload apps easily",
+            "iconURL": "https://raw.githubusercontent.com/Nyasami/Ksign/main/Ksign/Assets.xcassets/AppIcon.appiconset/icon_180.png"
         }
     ]
 }
