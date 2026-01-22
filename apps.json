@@ -67,7 +67,7 @@
             "name": "Ksign",
             "bundleIdentifier": "nya.asami.ksign",
             "version": "1.5.1",
-            "versionDate": "2026-01-21",
+            "versionDate": "2026-01-22",
             "size": 14029179,
             "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/ksign_1.5.1.ipa",
             "localizedDescription": "Ksign is an IPA signing tool for iOS.\n\nFeatures:\n- Sign IPAs with your own certificate\n- Sideload apps easily",
