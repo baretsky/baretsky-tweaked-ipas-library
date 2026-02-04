@@ -36,10 +36,10 @@
         {
             "name": "Instagram",
             "bundleIdentifier": "com.burbn.instagram",
-            "version": "412.0.0",
-            "versionDate": "2026-01-12",
-            "size": 248939465,
-            "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/instagram_412.0.0_SCInsta_sideloaded.ipa",
+            "version": "415.0.0",
+            "versionDate": "2026-02-04",
+            "size": 256964337,
+            "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/instagram_415.0.0_SCInsta_sideloaded.ipa",
             "localizedDescription": "Instagram enhanced with SCInsta.\n\nFeatures:\n- Download posts and stories\n- View stories anonymously\n- Remove all advertisements\n- Copy text from posts\n\nTo open SCInsta settings, go to profile -> long-press the top-right three lines hamburger menu.",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"
         },
