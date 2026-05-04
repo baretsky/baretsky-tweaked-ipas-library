@@ -16,10 +16,10 @@
         {
             "name": "YouTube",
             "bundleIdentifier": "com.google.ios.youtube",
-            "version": "21.17.3",
-            "versionDate": "2026-04-27",
-            "size": 134887253,
-            "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/youtube_21.17.3_YTLite_sideloaded.ipa",
+            "version": "21.18.4",
+            "versionDate": "2026-05-04",
+            "size": 135617473,
+            "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/youtube_21.18.4_YTLite_sideloaded.ipa",
             "localizedDescription": "YouTube enhanced with YTLite.\n\nFeatures:\n- Ad-free playback\n- Background play\n- SponsorBlock integration\n- OLEDBLACK mode\n\nYTLite settings can be found in YouTube settings.",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Youtube_logo.png/512px-Youtube_logo.png"
         },
