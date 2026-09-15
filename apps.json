@@ -46,10 +46,10 @@
         {
             "name": "Twitch",
             "bundleIdentifier": "tv.twitch",
-            "version": "31.1",
-            "versionDate": "2026-09-09",
-            "size": 177152228,
-            "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/twitch_31.1_TwitchAdBlock_sideloaded.ipa",
+            "version": "31.2",
+            "versionDate": "2026-09-15",
+            "size": 179844200,
+            "downloadURL": "https://github.com/baretsky/baretsky-tweaked-ipas-library/releases/download/builds/twitch_31.2_TwitchAdBlock_sideloaded.ipa",
             "localizedDescription": "Twitch with AdBlock.\n\nFeatures:\n- Full Ad-Blocking",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Twitch_Glitch_Logo_Purple.svg/640px-Twitch_Glitch_Logo_Purple.svg.png"
         },
